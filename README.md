@@ -8,12 +8,15 @@ W tym repozytorium znajdują się programy, które wykonywałem i analizowałem 
         * 4.12.2019
         * 18.12.2019
         * 15.01.2020
+        
     2. praca na każdy tydzień:
         * 2h programowania 
         * 1h czytania
+        
     3. Literatura:
         * Wprowadzenie Python- Mark Lutz
         * Python dla każdego. Podstawy programowania – Michael Dawson
+        
     4. Rozpatrywane zagadnienie:
         * 22.09.2019-6.11.2019: 
             1 instalacja Anaconda 3
@@ -25,6 +28,7 @@ W tym repozytorium znajdują się programy, które wykonywałem i analizowałem 
         * .
         * .
         * .
+        
     5. Rozpatrywane problemy, cel:
         * .
         * .
